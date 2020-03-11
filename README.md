@@ -6,9 +6,22 @@ Trata-se de um equipamento conectado ao paciente e a um jogo digital controlado 
 
 ### Conheça alguns dos jogos que estão disponíveis e adptados para o SIRF:
 
-#### JOGO 1
-
+#### Jogo categoria contração e sub-categoria infantil:
+<center>
 <img src="icon1.png" width="500" height="280"> 
+link
+  
+#### Jogo categoria relaxamento e sub-categoria infantil:
+<center>
+<img src="icon2.png" width="500" height="280"> 
+link
+  
+#### Jogo categoria contração e sub-categoria adulta:
+<center>
+<img src="icon3.png" width="500" height="280"> 
+link
 
-
-#### JOGO 2
+#### Jogo categoria contração e sub-categoria adulta:
+<center>
+<img src="icon4.png" width="500" height="280"> 
+link
