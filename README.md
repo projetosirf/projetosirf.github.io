@@ -8,7 +8,7 @@ Trata-se de um equipamento conectado ao paciente e a um jogo digital controlado 
 
 #### JOGO 1
 
-<img src="icon1.png" width="654" height="280"> 
+<img src="icon1.png" width="500" height="280"> 
 
 
 #### JOGO 2
