@@ -11,10 +11,7 @@ Trata-se de um equipamento conectado ao paciente e a um jogo digital controlado 
 <img src="icon1.png" width="500" height="280"> 
 link
   
-  
-  
-  
-  
+Adolfo precisa destruir os monstrinhos para poder manter o relógio do qual ele é encarregado de cuidar fique seguro.
 #### Jogo categoria relaxamento e sub-categoria infantil:
 <center>
 <img src="icon2.png" width="500" height="280"> 
