@@ -8,14 +8,16 @@ Trata-se de um equipamento conectado ao paciente e a um jogo digital controlado 
 
 #### Jogo categoria contração e sub-categoria infantil:
 <img src="icon1.png" width="500" height="280"> 
- 
+<br>
+link
 #### Jogo categoria relaxamento e sub-categoria infantil:
 <img src="icon2.png" width="500" height="280"> 
-
+<br>
+link
 #### Jogo categoria contração e sub-categoria adulta:
 <img src="icon3.png" width="500" height="280"> 
 <br>
-
+link
 #### Jogo categoria contração e sub-categoria adulta:
 <img src="icon4.png" width="500" height="280"> 
 <br>
