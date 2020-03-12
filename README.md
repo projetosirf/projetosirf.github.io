@@ -15,10 +15,10 @@ Adolfo precisa destruir os monstrinhos para poder manter o relógio do qual ele 
 #### Jogo categoria relaxamento e sub-categoria infantil:
 <center>
 <img src="icon2.png" width="500" height="280"> 
+  
+  
 link
-  
-  
-  
+ 
 #### Jogo categoria contração e sub-categoria adulta:
 <center>
 <img src="icon3.png" width="500" height="280"> 
