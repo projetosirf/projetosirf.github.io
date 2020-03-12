@@ -19,3 +19,4 @@ Trata-se de um equipamento conectado ao paciente e a um jogo digital controlado 
 #### Jogo categoria contração e sub-categoria adulta:
 <img src="icon4.png" width="500" height="280"> 
 link
+<center>
