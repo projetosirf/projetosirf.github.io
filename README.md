@@ -18,11 +18,13 @@ Ele é dispositivo portátil e acessível, com um excelente custo-benefício e b
 <br>
 
 # Sistema de Aquisição de Sinais e de Controle
+<center>
 Com relação aos aspectos metodológicos e tecnológicos, para a implementação do código, foi usada a plataforma Arduino, com uso da linguagem de programação C++. Além disso, no primeiro período, foram utilizados o módulo AD8232, a placa Arduino UNO, um relé e uma placa retirada de um mouse, para compor o sistema de aquisição, amplificação, filtragem de sinal e o sistema de controle. Já no segundo período, foram utilizados o Arduino Leonardo e o módulo de aquisição de sinais, eliminando a placa do mouse. 
-
+</center>
 # Jogos Digitais
+<center>
 Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a criação das artes e animações, foi usado o programa Adobe Illustrator e o Adobe Animate. Tudo isso foi escolhido com o objetivo de fazer uso das plataformas mais adequadas para, ao final do desenvolvimento, poder oferecer ao jogador-paciente um ambiente virtual atrativo, com o qual ele possa interagir apenas movimentando o músculo, facilitando a realização dos exercícios.
-
+</center>
 ## Categoria Contração
 ### Subcategoria infantil
 #### Jogo 1
