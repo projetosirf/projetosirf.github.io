@@ -1,4 +1,6 @@
+<center>
 ## Sistema Interativo para a Reabilitação Fisioterapêutica
+</center>
 
 <center>
 <img src="LOGO.PNG" width="558" height="414"> 
