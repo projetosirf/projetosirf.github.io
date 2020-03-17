@@ -1,6 +1,6 @@
 # Sistema Interativo para a Reabilitação Fisioterapêutica
 <center>
-<img src="LOGO.jpg" width="300" height="300"> 
+<img src="LOGO.PNG" width="558" height="414"> 
 </center>
 
 ## "O que é?"
