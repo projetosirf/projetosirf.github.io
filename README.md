@@ -16,12 +16,12 @@ A captação de sinais é feita através de eletrodos, o jogo é carregado no co
 Ele é dispositivo portátil e acessível, com um excelente custo-benefício e boa qualidade, que pode ser usado também como uma ferramenta para tratamentos que estão sendo realizados em domicílio. Além disso, SIRF oferece um feedback de cada sessão, para o fisioterapeuta realizar um acompanhamento do desempenho do paciente após os exercícios.
 </center>
 <br>
-<br>
 
-# SISTEMA DE AQUISIÇÃO DE SINAIS E DE CONTROLE
-Para o sistema de aquisição, foi utilizado o amplificador para a capitação dos sinais do músculo. Esses sinais, que são analógicos, são filtrados, através da programação na plataforma Arduino, para gerar um pulso de controle.
+# Sistema de Aquisição de Sinais e de Controle
+Com relação aos aspectos metodológicos e tecnológicos, para a implementação do código, foi usada a plataforma Arduino, com uso da linguagem de programação C++. Além disso, no primeiro período, foram utilizados o módulo AD8232, a placa Arduino UNO, um relé e uma placa retirada de um mouse, para compor o sistema de aquisição, amplificação, filtragem de sinal e o sistema de controle. Já no segundo período, foram utilizados o Arduino Leonardo e o módulo de aquisição de sinais, eliminando a placa do mouse. 
 
-# JOGOS DIGITAIS
+# Jogos Digitais
+Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a criação das artes e animações, foi usado o programa Adobe Illustrator e o Adobe Animate. Tudo isso foi escolhido com o objetivo de fazer uso das plataformas mais adequadas para, ao final do desenvolvimento, poder oferecer ao jogador-paciente um ambiente virtual atrativo, com o qual ele possa interagir apenas movimentando o músculo, facilitando a realização dos exercícios.
 
 ## Categoria Contração
 ### Subcategoria infantil
