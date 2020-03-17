@@ -27,7 +27,7 @@ Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a c
 </center>
 ## Categoria Contração
 ### Subcategoria infantil
-#### Jogo 1
+#### Jogo
 <img src="icon1.png" width="500" height="280"> 
 <br>
 link
@@ -46,14 +46,14 @@ link
 ## Categoria Relaxamento
 
 ### Subcategoria infantil:
-#### Jogo 1
+#### Jogo
 <img src="icon2.png" width="500" height="280"> 
 <br>
 link
 
 # Contatos
 <center>
-<a href="https://www.instagram.com/CiellCachos/?hl=pt-br" target="_blank">
+<a href="https://www.instagram.com/projetosirf" target="_blank">
 <img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
 <a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
 <img title="FACEBOOK" alt="NOME" src="FB.png" /></a>
