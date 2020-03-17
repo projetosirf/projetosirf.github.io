@@ -16,28 +16,41 @@ Ele é dispositivo portátil e acessível, com um excelente custo-benefício e b
 <br>
 <br>
 
-## JOGOS DO SIRF
+## SISTEMA DE AQUISIÇÃO DE SINAIS E DE CONTROLE
+FOTO
 
-### Categoria Contração
+## JOGOS DIGITAIS
 
-
-#### Subcategoria infantil
+## Categoria Contração
+### Subcategoria infantil
+#### Jogo 1
 <img src="icon1.png" width="500" height="280"> 
 <br>
 link
 
-#### Subcategoria adulto
+### Subcategoria adulto
+#### Jogo 1
 <img src="icon3.png" width="500" height="280"> 
 <br>
 link
 
+#### Jogo 2
 <img src="icon4.png" width="500" height="280"> 
 <br>
 link
 
-### Categoria Relaxamento
+## Categoria Relaxamento
 
-#### Subcategoria infantil:
+### Subcategoria infantil:
+#### Jogo 1
 <img src="icon2.png" width="500" height="280"> 
 <br>
 link
+
+# Contatos
+<center>
+<a href="https://www.instagram.com/CiellCachos/?hl=pt-br" target="_blank">
+<img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
+<a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
+<img title="FACEBOOK" alt="NOME" src="FB.png" /></a>
+</center>
