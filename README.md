@@ -55,6 +55,8 @@ link
 <center>
 <a href="https://www.instagram.com/projetosirf" target="_blank">
 <img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
+<a href="sirfgame10@gmail.com" target="_blank">
+<img title="INSTAGRAM" alt="NOME" src="Int.png" /></a>
 <a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
 <img title="FACEBOOK" alt="NOME" src="FB.png" /></a>
 </center>
