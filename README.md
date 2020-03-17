@@ -54,9 +54,9 @@ link
 # Contatos
 <center>
 <a href="https://www.instagram.com/projetosirf" target="_blank">
-<img title="INSTAGRAM" alt="NOME" src="i.png" width="150" height="150"/></a>
+<img title="INSTAGRAM" alt="NOME" src="i.png" width="50" height="50"/></a>
 <a href="sirfgame10@gmail.com" target="_blank">
-<img title="INSTAGRAM" alt="NOME" src="g.png" width="150" height="150"/></a>
+<img title="INSTAGRAM" alt="NOME" src="g.png" width="50" height="50"/></a>
 <a href="https://www.facebook.com/maciel.araujo.3150" target="_blank">
-<img title="FACEBOOK" alt="NOME" src="w.png" width="150" height="150"  /></a>
+<img title="FACEBOOK" alt="NOME" src="w.png" width="50" height="50"  /></a>
 </center>
