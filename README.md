@@ -5,6 +5,7 @@
 <img src="LOGO.PNG" width="558" height="414"> 
 </center>
 
+<br>
 <center>
 O SIRF é um sistema interativo idealizado para ser utilizado como uma das ferramentas aplicadas durante as sessões de fisioterapia. Ele é um equipamento auxiliar e trata-se de um fisiogame controlado pelos sinais musculares do jogador-paciente. Enquanto faz o exercício, o usuário poderá controlar o jogo apenas contraindo e descontraindo o músculo, possibilitando a “gameficação” do tratamento.
 <br>
@@ -18,7 +19,7 @@ Ele é dispositivo portátil e acessível, com um excelente custo-benefício e b
 <br>
 
 ## SISTEMA DE AQUISIÇÃO DE SINAIS E DE CONTROLE
-FOTO
+Para o sistema de aquisição, foi utilizado o amplificador para a capitação dos sinais do músculo. Esses sinais, que são analógicos, são filtrados, através da programação na plataforma Arduino, para gerar um pulso de controle.
 
 ## JOGOS DIGITAIS
 
