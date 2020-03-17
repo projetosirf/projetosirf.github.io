@@ -43,7 +43,9 @@ link
 <img src="icon4.png" width="500" height="280"> 
 <br>
 link
+
 ### Categoria Relaxamento
+
 #### Subcategoria infantil:
 <img src="icon2.png" width="500" height="280"> 
 <br>
