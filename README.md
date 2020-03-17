@@ -1,9 +1,6 @@
-<center>
 # PROJETO SIRF - 1139
-  </center>
-<center>
 ## SISTEMA INTERATIVO PARA A REABILITAÇÃO FISIOTERAPÊUTICA
-</center>
+
 <center>
 <img src="LOGO.PNG" width="558" height="414"> 
 </center>
