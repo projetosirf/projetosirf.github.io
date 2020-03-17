@@ -1,4 +1,4 @@
-##   Sistema Interativo para a Reabilitação Fisioterapêutica
+##   Sistema Interativo para a Reabilitação Fisioterapêutica (SIRF)
 
 <center>
 <img src="LOGO.PNG" width="558" height="414"> 
