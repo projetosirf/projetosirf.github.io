@@ -1,5 +1,7 @@
-# Conheça o Projeto SIRF
-(Sistema Interativo para a Reabilitação Fisioterapêutica)
+# Sistema Interativo para a Reabilitação Fisioterapêutica
+<center>
+<img src="Perfil.jpg" width="300" height="300"> 
+</center>
 
 ## "O que é?"
 Trata-se de um equipamento conectado ao paciente e a um jogo digital controlado pelos sinais musculares do próprio paciente.
