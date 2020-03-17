@@ -4,11 +4,7 @@
 <img src="LOGO.PNG" width="558" height="414"> 
 </center>
 <center>
-- Maciel Araujo de lima
- 
-- 23 anos
-
-- Atuação em Game designer & Designer
+- O SIRF é um sistema interativo idealizado para ser utilizado como uma das ferramentas aplicadas durante as sessões de fisioterapia. 
 </center>
 
 ## "O que é?"
