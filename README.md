@@ -18,10 +18,10 @@ Ele é dispositivo portátil e acessível, com um excelente custo-benefício e b
 <br>
 <br>
 
-## SISTEMA DE AQUISIÇÃO DE SINAIS E DE CONTROLE
+# SISTEMA DE AQUISIÇÃO DE SINAIS E DE CONTROLE
 Para o sistema de aquisição, foi utilizado o amplificador para a capitação dos sinais do músculo. Esses sinais, que são analógicos, são filtrados, através da programação na plataforma Arduino, para gerar um pulso de controle.
 
-## JOGOS DIGITAIS
+# JOGOS DIGITAIS
 
 ## Categoria Contração
 ### Subcategoria infantil
