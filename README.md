@@ -1,6 +1,16 @@
+<center>
 # Sistema Interativo para a Reabilitação Fisioterapêutica
+</center>
+
 <center>
 <img src="LOGO.PNG" width="558" height="414"> 
+</center>
+<center>
+- Maciel Araujo de lima
+ 
+- 23 anos
+
+- Atuação em Game designer & Designer
 </center>
 
 ## "O que é?"
