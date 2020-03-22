@@ -29,6 +29,7 @@ Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a c
 ### Subcategoria infantil
 #### Jogo
 <img src="icon1.png" width="500" height="280"> 
+[![imagem 01](icon1.png)](https://projetosirf.github.io/JOGO-GNOMO-CONTRA/)
 <br>
 link
 
