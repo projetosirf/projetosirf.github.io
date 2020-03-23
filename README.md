@@ -70,8 +70,8 @@ AJUDE ALFREDO, RELAXANDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELOG
 [Aperte aqui para jogar!](https://projetosirf.github.io/JOGO-RELAX-GNOMO/)
 
 
-#Para todos os jogos acesse:
-[FERRAMENTA COMPLETA!](https://projetosirf.github.io/JOGO-RELAX-GNOMO/)
+# Para todos os jogos acesse:
+[FERRAMENTA COMPLETA!](https://projetosirf.github.io/OFICIAL/)
 
 
 # Contatos
