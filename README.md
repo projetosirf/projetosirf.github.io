@@ -32,7 +32,7 @@ Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a c
 AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELOGIO DAS ESTAÇÕES SEJA CONSERTADO
 <img src="icon1.png" width="500" height="280"> 
 <br>
-<a href="https://projetosirf.github.io/JOGO-GNOMO-CONTRA/" target="_blank">
+<[Aperte aqui para acessar](https://projetosirf.github.io/JOGO-GNOMO-CONTRA/)
 
 ### Subcategoria adulto
 #### Jogo 1
