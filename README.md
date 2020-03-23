@@ -28,6 +28,8 @@ Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a c
 ## Categoria Contração
 ### Subcategoria infantil
 #### Jogo
+##### Deu a louca nas estações
+AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELOGIO DAS ESTAÇÕES SEJA CONSERTADO
 <img src="icon1.png" width="500" height="280"> 
 <br>
 <a href="https://projetosirf.github.io/JOGO-GNOMO-CONTRA/" target="_blank">
