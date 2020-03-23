@@ -36,6 +36,8 @@ AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELO
 
 ### Subcategoria adulto
 #### Jogo 1
+##### Borbas: Caçada Sobrenatual
+TENTE SOBREVIVER NO ESTRANHO MUNDO DE KARTA, ONDE ESTRANHAS CRIATURAS VIVEM E COISAS SOBRENATURAIS ACONTECEM.
 <img src="icon3.png" width="500" height="280"> 
 <br>
 "https://projetosirf.github.io/JOGO1-BORBINHA/"
