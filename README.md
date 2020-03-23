@@ -30,13 +30,13 @@ Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a c
 #### Jogo
 <img src="icon1.png" width="500" height="280"> 
 <br>
-link
+https://projetosirf.github.io/JOGO-GNOMO-CONTRA/
 
 ### Subcategoria adulto
 #### Jogo 1
 <img src="icon3.png" width="500" height="280"> 
 <br>
-link
+https://projetosirf.github.io/JOGO1-BORBINHA/
 
 #### Jogo 2
 <img src="2020-03-22 (4).png" width="500" height="280"> 
