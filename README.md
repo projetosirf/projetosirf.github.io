@@ -40,28 +40,38 @@ AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELO
 TENTE SOBREVIVER NO ESTRANHO MUNDO DE KARTA, ONDE ESTRANHAS CRIATURAS VIVEM E COISAS SOBRENATURAIS ACONTECEM.
 <img src="icon3.png" width="500" height="280"> 
 <br>
-"https://projetosirf.github.io/JOGO1-BORBINHA/"
+[Aperte aqui para jogar!](https://projetosirf.github.io/JOGO1-BORBINHA/)
+
 
 #### Jogo 2
+##### O caçador de recompensas
+CAPTURE CRIMINOSOS FUGITIVOS PARA RECEBER GRANDES RECOMPENSAS FINANCEIRAS!
 <img src="2020-03-22 (4).png" width="500" height="280"> 
 <br>
-"https://projetosirf.github.io/JOGO3-JACKE/"
+[Aperte aqui para jogar!](https://projetosirf.github.io/JOGO3-JACKE/)
+
 
 #### Jogo 3
+##### Starky: Batalha Espacial
+VOCÊ É STARKY! UM COWBOY-ROBÔ QUE ENFRENTA ALIENÍGENAS EM SUA NAVE NO ESPAÇO!
 <img src="icon4.png" width="500" height="280"> 
 <br>
-"https://projetosirf.github.io/JOGO2-STARKY/"
+[Aperte aqui para jogar!](https://projetosirf.github.io/JOGO2-STARKY/)
+
 
 ## Categoria Relaxamento
 
 ### Subcategoria infantil:
 #### Jogo
+##### Deu a Louca nas Estações
+AJUDE ALFREDO, RELAXANDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELOGIO DAS ESTAÇÕES SEJA CONSERTADO
 <img src="icon2.png" width="500" height="280"> 
 <br>
-"https://projetosirf.github.io/JOGO-RELAX-GNOMO/"
+[Aperte aqui para jogar!](https://projetosirf.github.io/JOGO-RELAX-GNOMO/)
+
 
 #Para todos os jogos acesse:
-"https://projetosirf.github.io/OFICIAL/"
+[FERRAMENTA COMPLETA!](https://projetosirf.github.io/JOGO-RELAX-GNOMO/)
 
 
 # Contatos
