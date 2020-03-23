@@ -41,12 +41,12 @@ https://projetosirf.github.io/JOGO1-BORBINHA/
 #### Jogo 2
 <img src="2020-03-22 (4).png" width="500" height="280"> 
 <br>
-link
+https://projetosirf.github.io/JOGO3-JACKE/
 
 #### Jogo 3
 <img src="icon4.png" width="500" height="280"> 
 <br>
-link
+https://projetosirf.github.io/JOGO2-STARKY/
 
 ## Categoria Relaxamento
 
@@ -54,7 +54,11 @@ link
 #### Jogo
 <img src="icon2.png" width="500" height="280"> 
 <br>
-link
+https://projetosirf.github.io/JOGO-RELAX-GNOMO/
+
+#Para todos os jogos acesse:
+https://projetosirf.github.io/OFICIAL/
+
 
 # Contatos
 <center>
