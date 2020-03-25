@@ -26,14 +26,14 @@ Com relação aos aspectos metodológicos e tecnológicos, para a implementaçã
 Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a criação das artes e animações, foi usado o programa Adobe Illustrator e o Adobe Animate. Tudo isso foi escolhido com o objetivo de fazer uso das plataformas mais adequadas para, ao final do desenvolvimento, poder oferecer ao jogador-paciente um ambiente virtual atrativo, com o qual ele possa interagir apenas movimentando o músculo, facilitando a realização dos exercícios.
 </center>
 ## Categoria Contração
+# PARA JOGAR CLICK NA IMAGEM!
 ### Subcategoria infantil
 #### Jogo
 ##### Deu a louca nas estações
 AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELOGIO DAS ESTAÇÕES SEJA CONSERTADO
 <img src="icon1.png" width="500" height="280"> 
 <br>
-[Aperte aqui para jogar!](https://projetosirf.github.io/JOGO-GNOMO-CONTRA/)
-[![imagem 01](icon1.png)](https://maciellima.github.io/VouContarAte3/)
+[![imagem 01](icon1.png)](https://projetosirf.github.io/JOGO-GNOMO-CONTRA/)
 
 
 ### Subcategoria adulto
