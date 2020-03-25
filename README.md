@@ -33,6 +33,8 @@ AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELO
 <img src="icon1.png" width="500" height="280"> 
 <br>
 [Aperte aqui para jogar!](https://projetosirf.github.io/JOGO-GNOMO-CONTRA/)
+[![imagem 01](icon1.png)](https://maciellima.github.io/VouContarAte3/)
+
 
 ### Subcategoria adulto
 #### Jogo 1
