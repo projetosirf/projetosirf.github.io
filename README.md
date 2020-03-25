@@ -31,7 +31,6 @@ Para a programação do jogo, a plataforma Construct 2 foi escolhida e, para a c
 #### Jogo
 ##### Deu a louca nas estações
 AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELOGIO DAS ESTAÇÕES SEJA CONSERTADO
-<img src="icon1.png" width="500" height="280"> 
 <br>
 [![imagem 01](icon1.png)](https://projetosirf.github.io/JOGO-GNOMO-CONTRA/)
 
@@ -42,7 +41,8 @@ AJUDE ALFREDO, CONTRAINDO SEUS MUSCULOS, A AFASTAR OS MOSTRINHOS PARA QUE O RELO
 TENTE SOBREVIVER NO ESTRANHO MUNDO DE KARTA, ONDE ESTRANHAS CRIATURAS VIVEM E COISAS SOBRENATURAIS ACONTECEM.
 <img src="icon3.png" width="500" height="280"> 
 <br>
-[Aperte aqui para jogar!](https://projetosirf.github.io/JOGO1-BORBINHA/)
+[![imagem 02](icon3.png)](https://projetosirf.github.io/JOGO1-BORBINHA/)
+
 
 
 #### Jogo 2
@@ -50,6 +50,8 @@ TENTE SOBREVIVER NO ESTRANHO MUNDO DE KARTA, ONDE ESTRANHAS CRIATURAS VIVEM E CO
 CAPTURE CRIMINOSOS FUGITIVOS PARA RECEBER GRANDES RECOMPENSAS FINANCEIRAS!
 <img src="2020-03-22 (4).png" width="500" height="280"> 
 <br>
+[![imagem 03](2020-03-22 (4).png)](https://projetosirf.github.io/JOGO3-JACKE/)
+
 [Aperte aqui para jogar!](https://projetosirf.github.io/JOGO3-JACKE/)
 
 
